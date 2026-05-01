@@ -1,4 +1,4 @@
-# Word Game Pro — Edition ✦
+# Age Based Word Game Pro — Edition ✦
 
 A professional-grade, cross-platform terminal word puzzle game built with Python. Featuring age-adaptive difficulty, real-time HUD rendering, and persistent leaderboards.
 
